@@ -1,1 +1,39 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    
+}
+section h1{
+    font-size: 55px;
+}
+section p{
+    font-size: 20px;
+    width: 68%;
+    line-height: 30px;
+    color: #5a5757;
+}
+.first-mission{
+   display: flex;
+   
 
+}
+.fitst-div{
+    width:50% ;
+    padding-left:10%;
+    
+}
+.fitst-div img{
+    width: 60%;
+}
+span{
+    color: #FDC466;
+}
+#first-id{
+    padding-top: 5%;
+}
+.first-ancor{
+    text-decoration: none;
+    background-color: rgb(255, 102, 0);
+    padding: 12px 30px;
+    border-radius: 5px;
+    color: white;
+}
