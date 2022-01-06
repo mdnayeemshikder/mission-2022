@@ -1,5 +1,6 @@
 body{
     font-family: 'Be Vietnam Pro', sans-serif;
+    margin: 0%;
     
 }
 #headline h1{
@@ -102,3 +103,35 @@ img{
 h3{
     font-size: 25px;
 }
+#talent{
+    text-align: center;
+    font-size: 65px;
+}
+#work{
+    font-size: 55px;
+}
+#last{
+    font-size: 45px;
+}
+#amaro-somoy-asbe{
+    color: #FDC466;
+    font-size: 55px;
+}
+#amar-mission{
+    background: black;
+    text-align: center;
+    padding: 5% 20%;
+}
+#my-lover-p{
+    color: white;
+    padding-left: 15%;
+}
+#amar-mission h1{
+    font-size: 38px;
+    color: white;
+}   
+#ar-kaj-nai{
+    color: #FF6600;
+    font-size:40px ;
+}
+
