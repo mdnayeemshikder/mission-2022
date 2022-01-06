@@ -8,7 +8,7 @@ body{
     padding-left: 2%;
 }
 section p{
-    font-size: 17px;
+    font-size: 20px;
     width: 68%;
     line-height: 30px;
     color: #5a5757;
@@ -84,6 +84,21 @@ span{
     
 }
 #sixth-id{
-    font-size:50px ;
+    font-size:45px ;
     padding-top: 12%;
+}
+img{
+    width: 60%;
+    padding-right: 100%;
+    
+}
+#saventh-id{
+    font-size:45px ;
+    
+}
+#valo-basar-div{
+    padding-left: 12%;
+}
+h3{
+    font-size: 25px;
 }
