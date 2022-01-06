@@ -3,10 +3,12 @@ body{
     
 }
 section h1{
-    font-size: 55px;
+    font-size: 60px;
+    border-left: 5px solid #FF6600;
+    padding-left: 2%;
 }
 section p{
-    font-size: 20px;
+    font-size: 17px;
     width: 68%;
     line-height: 30px;
     color: #5a5757;
@@ -21,7 +23,8 @@ section p{
     padding-left:10%;
     
 }
-.fitst-div img{
+
+ img{
     width: 60%;
 }
 span{
@@ -36,4 +39,41 @@ span{
     padding: 12px 30px;
     border-radius: 5px;
     color: white;
+}
+.first-h1{
+    text-align: center;
+    font-size: 50px;
+}
+.first-img{
+    width: 30%;
+}
+span{
+    color: #FDC466;
+}
+#second-id{
+    width:50% ;
+    background-color: #FFEEEE;
+    padding-left: 3%;
+    border-radius: 5%;
+    margin-left:10%;
+    margin-bottom: 10%;
+    mar
+}
+#thard-id{
+    width:50% ;
+    background-color: #EDF5F6;
+     padding-left: 3%;
+     border-radius: 5%;
+     margin-left:8%;
+     margin-right:10%;
+     margin-bottom: 10%;
+}
+#forth-id{
+    width:50% ;
+    background-color: #FFF4D6;
+     padding-left: 3%;
+     border-radius: 5%;
+     margin-right:8%;
+     margin-bottom: 10%;
+     
 }
